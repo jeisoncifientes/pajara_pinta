@@ -1,0 +1,6 @@
+{
+"url-backend": "127.0.0.1",
+"port": 9999,
+"data-db-connection": "mongodb+srv://jeisoncifientes:VcI736KcxoJCQA5k@cluster0.8suy95o.mongodb.net/bd-pajara?retryWrites=true&w=majority",
+"name-db":"bd-pajara"
+}
